@@ -24,6 +24,11 @@ Steps are divided into 3 parts: [system](#System), [apps](#Apps) and [terminal](
 
 ### Terminal
 
+ - [Starship](https://github.com/starship/starship): customizable prompt for shell.
+ - [Neovim](https://neovim.io): once and for all vim solution.
+ - [tmux](https://github.com/tmux/tmux): pleasant and streamlined workflow.
+ - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh): managing zsh configuration.
+
 ## What's more
 
 ## Feedback
