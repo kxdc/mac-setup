@@ -21,6 +21,8 @@ Steps are divided into 3 parts: [system](#System), [apps](#Apps) and [terminal](
  - [Hidden Bar](https://github.com/dwarvesf/hidden): hiding menu bar items for better look.
  - [Alfred](https://www.alfredapp.com): boosting productivity with it's `Powerpack` enabled.
  - [Moom](https://manytricks.com/moom/): moving and resizing windows.
+ - [IINA](https://iina.io): the modern media player for macOS.
+ - [Keka](https://www.keka.io): a versatile archive extractor.
 
 ### Terminal
 
