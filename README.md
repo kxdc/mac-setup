@@ -37,8 +37,6 @@ Steps are divided into 3 parts: [system](#System), [apps](#Apps) and [terminal](
  - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh): managing zsh configuration.
  - [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient and predictable.
 
-## What's more
-
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
