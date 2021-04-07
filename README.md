@@ -14,6 +14,11 @@ Steps are divided into 3 parts: [system](#System), [apps](#Apps) and [terminal](
 
 ### System
 
+ - [Dark Mode](https://support.apple.com/en-us/HT208976): I love dark mode.
+ - [Battery Life](https://support.apple.com/en-us/HT204054): getting the most from computer’s battery.
+ - []():
+ - []():
+
 ### Apps
 
  - [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping `capslock` as `ctrl`.
