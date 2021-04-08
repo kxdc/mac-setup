@@ -50,6 +50,8 @@ updates, only sites and simple introductions are listed.
 
  6. [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient and predictable.
 
+ 7. [fzf](https://github.com/junegunn/fzf): fuzzy finder for any list.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
