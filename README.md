@@ -1,7 +1,7 @@
 
 # mac-setup
 
-Set up personal developing environment for a brand new mac, neat and easy.
+Set up personal developing environment for a brand new mac, easy and not much.
 
 ## Introduction
 
