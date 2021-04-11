@@ -38,6 +38,9 @@ updates, only sites and simple introductions are listed.
 
 ### Terminal
 
+[iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
+on command line prompt, it works fine.
+
  1. [Homebrew](https://brew.sh): managing packages, can be extended by [cask](https://formulae.brew.sh/cask/).
 
  2. [Starship](https://github.com/starship/starship): customizable prompt for shell.
