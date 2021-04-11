@@ -36,6 +36,8 @@ updates, only sites and simple introductions are listed.
 
  7. [Keka](https://www.keka.io): a versatile archive extractor.
 
+ 8. [Pins](https://get-pins.app): a modern [Pinboard](https://pinboard.in) app.
+
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
