@@ -57,6 +57,8 @@ on command line prompt, it works fine.
 
  7. [fzf](https://github.com/junegunn/fzf): fuzzy finder for any list.
 
+ 8. [htop](https://github.com/hishamhm/htop): a better `top` command.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
