@@ -67,6 +67,8 @@ on command line prompt, it works fine.
 
  11. [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
 
+ 12. [duf](https://github.com/muesli/duf): a better `df` alternative.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
