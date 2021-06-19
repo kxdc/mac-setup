@@ -65,6 +65,8 @@ on command line prompt, it works fine.
 
  10. [delta](https://github.com/dandavison/delta): better viewer for `git` and `diff` output.
 
+ 11. [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
