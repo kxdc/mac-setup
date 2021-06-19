@@ -63,6 +63,8 @@ on command line prompt, it works fine.
 
  9. [exa](https://github.com/ogham/exa): a A modern replacement for `ls`.
 
+ 10. [delta](https://github.com/dandavison/delta): better viewer for `git` and `diff` output.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
