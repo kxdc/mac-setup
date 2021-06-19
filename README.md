@@ -57,9 +57,11 @@ on command line prompt, it works fine.
 
  6. [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient and predictable.
 
- 7. [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with [ripgrep](https://github.com/BurntSushi/ripgrep) and [bat](https://github.com/sharkdp/bat).
+ 7. [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with `[ripgrep](https://github.com/BurntSushi/ripgrep)` and `[bat](https://github.com/sharkdp/bat)`.
 
  8. [htop](https://github.com/hishamhm/htop): a better `top` command.
+
+ 9. [exa](https://github.com/ogham/exa): a A modern replacement for `ls`.
 
 ## Feedback
 
