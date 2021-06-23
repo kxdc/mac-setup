@@ -40,6 +40,8 @@ updates, only sites and simple introductions are listed.
 
  9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): A global delay to stop accidental app quits.
 
+ 10. [Vimac](https://vimacapp.com): Keyboard access almost everywhere.
+
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
