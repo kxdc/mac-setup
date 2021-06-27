@@ -18,17 +18,22 @@ updates, only sites and simple introductions are listed.
 
  1. [Dark Mode](https://support.apple.com/en-us/HT208976): I love dark mode.
 
- 2. [Battery Life](https://support.apple.com/en-us/HT204054): getting the most from computer’s battery.
+ 2. [Battery Life](https://support.apple.com/en-us/HT204054): getting the most
+        from computer’s battery.
 
 ### Apps
 
- 1. [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping `capslock` as `ctrl`.
+ 1. [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping
+        `capslock` as `ctrl`.
 
- 2. [KeyCastr](https://github.com/keycastr/keycastr): visualizing keystroke. (notice typing password in terminal)
+ 2. [KeyCastr](https://github.com/keycastr/keycastr): visualizing keystroke.
+        (notice typing password in terminal)
 
- 3. [Hidden Bar](https://github.com/dwarvesf/hidden): hiding menu bar items for better look.
+ 3. [Hidden Bar](https://github.com/dwarvesf/hidden): hiding menu bar items for
+        better look.
 
- 4. [Alfred](https://www.alfredapp.com): boosting productivity with it's `Powerpack` enabled.
+ 4. [Alfred](https://www.alfredapp.com): boosting productivity with it's
+        `Powerpack` enabled.
 
  5. [Moom](https://manytricks.com/moom/): moving and resizing windows.
 
@@ -38,7 +43,8 @@ updates, only sites and simple introductions are listed.
 
  8. [Pins](https://get-pins.app): a modern [Pinboard](https://pinboard.in) app.
 
- 9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): A global delay to stop accidental app quits.
+ 9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): A global delay to
+        stop accidental app quits.
 
  10. [Vimac](https://vimacapp.com): Keyboard access almost everywhere.
 
@@ -48,7 +54,7 @@ updates, only sites and simple introductions are listed.
 on command line prompt, it works fine.
 
  1. [Homebrew](https://brew.sh): managing packages, can be extended by
-                                 [cask](https://formulae.brew.sh/cask/).
+        [cask](https://formulae.brew.sh/cask/).
 
  2. [Starship](https://github.com/starship/starship): customizable prompt for shell.
 
@@ -58,17 +64,20 @@ on command line prompt, it works fine.
 
  5. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh): managing zsh configuration.
 
- 6. [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient and predictable.
+ 6. [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient
+        and predictable.
 
  7. [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with
-                                            [ripgrep](https://github.com/BurntSushi/ripgrep)
-                                            and [bat](https://github.com/sharkdp/bat).
+        [ripgrep](https://github.com/BurntSushi/ripgrep),
+        [ripgrep-all](https://github.com/phiresky/ripgrep-all)
+        and [bat](https://github.com/sharkdp/bat).
 
  8. [htop](https://github.com/hishamhm/htop): a better `top` command.
 
  9. [exa](https://github.com/ogham/exa): a A modern replacement for `ls`.
 
- 10. [delta](https://github.com/dandavison/delta): better viewer for `git` and `diff` output.
+ 10. [delta](https://github.com/dandavison/delta): better viewer for `git` and
+        `diff` output.
 
  11. [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
 
