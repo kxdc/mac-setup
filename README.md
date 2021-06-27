@@ -47,7 +47,8 @@ updates, only sites and simple introductions are listed.
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
 on command line prompt, it works fine.
 
- 1. [Homebrew](https://brew.sh): managing packages, can be extended by [cask](https://formulae.brew.sh/cask/).
+ 1. [Homebrew](https://brew.sh): managing packages, can be extended by
+                                 [cask](https://formulae.brew.sh/cask/).
 
  2. [Starship](https://github.com/starship/starship): customizable prompt for shell.
 
@@ -59,7 +60,9 @@ on command line prompt, it works fine.
 
  6. [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient and predictable.
 
- 7. [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with [ripgrep](https://github.com/BurntSushi/ripgrep) and [bat](https://github.com/sharkdp/bat).
+ 7. [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with
+                                            [ripgrep](https://github.com/BurntSushi/ripgrep)
+                                            and [bat](https://github.com/sharkdp/bat).
 
  8. [htop](https://github.com/hishamhm/htop): a better `top` command.
 
