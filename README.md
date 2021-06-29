@@ -43,10 +43,12 @@ updates, only sites and simple introductions are listed.
 
  8. [Pins](https://get-pins.app): a modern [Pinboard](https://pinboard.in) app.
 
- 9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): A global delay to
+ 9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): a global delay to
         stop accidental app quits.
 
- 10. [Vimac](https://vimacapp.com): Keyboard access almost everywhere.
+ 10. [Vimac](https://vimacapp.com): keyboard access almost everywhere.
+
+ 11. [espanso](https://espanso.org): a wonderful text expander.
 
 ### Terminal
 
