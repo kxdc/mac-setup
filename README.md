@@ -55,6 +55,9 @@ updates, only sites and simple introductions are listed.
 
  13. [dropbox](https://www.dropbox.com): best file hosting service to me.
 
+ 14. [Sublime Text 4](https://www.sublimetext.com): source code editor outside
+         of Terminal.
+
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
