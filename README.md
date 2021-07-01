@@ -50,7 +50,10 @@ updates, only sites and simple introductions are listed.
 
  11. [espanso](https://espanso.org): a wonderful text expander.
 
- 12. [sorted<sup>3</sup>](https://www.sortedapp.com): schedule my to-do and calendar.
+ 12. [sorted<sup>3</sup>](https://www.sortedapp.com): schedule my to-do, notes
+         and calendar.
+
+ 13. [dropbox](https://www.dropbox.com): best file hosting service to me.
 
 ### Terminal
 
