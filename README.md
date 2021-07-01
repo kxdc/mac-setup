@@ -45,7 +45,7 @@ updates, only sites and simple introductions are listed.
  7. [Keka](https://www.keka.io): a versatile archive extractor.
 
  8. [Pinboard Browser Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
-        this fits all I need for pinboard using safari.
+        this fits all I need for [pinboard](https://pinboard.in) using safari.
 
  9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): a global delay to
         stop accidental app quits.
