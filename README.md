@@ -16,10 +16,10 @@ updates, only sites and simple introductions are listed.
 
 ### System
 
- 1. [Dark Mode](https://support.apple.com/en-us/HT208976): I love dark mode.
-
- 2. [Battery Life](https://support.apple.com/en-us/HT204054): getting the most
+ 1. [Battery Life](https://support.apple.com/en-us/HT204054): getting the most
         from computer’s battery.
+
+ 2. [Dark Mode](https://support.apple.com/en-us/HT208976): I love dark mode.
 
  3. [Dracula](https://draculatheme.com): My favorite dark theme for many shells,
         editors and more.
