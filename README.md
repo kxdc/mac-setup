@@ -21,6 +21,9 @@ updates, only sites and simple introductions are listed.
  2. [Battery Life](https://support.apple.com/en-us/HT204054): getting the most
         from computer’s battery.
 
+ 3. [Dracula](https://draculatheme.com): My favorite dark theme for many shells,
+        editors and more.
+
 ### Apps
 
  1. [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping
