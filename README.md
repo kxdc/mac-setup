@@ -50,6 +50,8 @@ updates, only sites and simple introductions are listed.
 
  11. [espanso](https://espanso.org): a wonderful text expander.
 
+ 12. [sorted3](https://www.sortedapp.com): schedule my to-do and calendar.
+
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
