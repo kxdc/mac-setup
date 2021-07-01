@@ -10,8 +10,8 @@ daily developing.
 
 ## Steps
 
-Steps are divided into 3 parts: [system](#System), [apps](#Apps) and
-[terminal](#Terminal). Since build and install steps may be vary due to their
+Steps are divided into 3 parts: [System](#System), [Apps](#Apps) and
+[Terminal](#Terminal). Since build and install steps may be vary due to their
 updates, only sites and simple introductions are listed.
 
 ### System
@@ -29,8 +29,8 @@ updates, only sites and simple introductions are listed.
  1. [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping
         `capslock` as `ctrl`.
 
- 2. [KeyCastr](https://github.com/keycastr/keycastr): visualizing keystroke.
-        (notice typing password in terminal)
+ 2. [KeyCastr](https://github.com/keycastr/keycastr): visualizing keystroke
+        (notice typing password in terminal).
 
  3. [Hidden Bar](https://github.com/dwarvesf/hidden): hiding menu bar items for
         better look.
@@ -54,10 +54,10 @@ updates, only sites and simple introductions are listed.
 
  11. [espanso](https://espanso.org): a wonderful text expander.
 
- 12. [sorted<sup>3</sup>](https://www.sortedapp.com): schedule my to-do, notes
+ 12. [Sorted<sup>3</sup>](https://www.sortedapp.com): schedule my to-do, notes
          and calendar.
 
- 13. [dropbox](https://www.dropbox.com): best file hosting service to me.
+ 13. [Dropbox](https://www.dropbox.com): best file hosting service to me.
 
  14. [Sublime Text 4](https://www.sublimetext.com): source code editor outside
          of Terminal.
