@@ -62,6 +62,9 @@ updates, only sites and simple introductions are listed.
  14. [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
         this fits all I need for [pinboard](https://pinboard.in) using safari.
 
+ 15. [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
+        extension for Safari.
+
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
