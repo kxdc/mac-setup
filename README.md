@@ -44,8 +44,8 @@ updates, only sites and simple introductions are listed.
 
  7. [Keka](https://www.keka.io): a versatile archive extractor.
 
- 8. [Pinboard Browser Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
-        this fits all I need for [pinboard](https://pinboard.in) using safari.
+ 8. [Sublime Text 4](https://www.sublimetext.com): source code editor outside
+         of Terminal.
 
  9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): a global delay to
         stop accidental app quits.
@@ -59,8 +59,8 @@ updates, only sites and simple introductions are listed.
 
  13. [Dropbox](https://www.dropbox.com): best file hosting service to me.
 
- 14. [Sublime Text 4](https://www.sublimetext.com): source code editor outside
-         of Terminal.
+ 14. [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
+        this fits all I need for [pinboard](https://pinboard.in) using safari.
 
 ### Terminal
 
@@ -90,8 +90,8 @@ on command line prompt, it works fine.
 
  9. [exa](https://github.com/ogham/exa): a A modern replacement for `ls`.
 
- 10. [delta](https://github.com/dandavison/delta): better viewer for `git` and
-        `diff` output.
+ 10. [delta](https://github.com/dandavison/delta): better viewer for `git log`
+        and `git reflog` output.
 
  11. [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
 
