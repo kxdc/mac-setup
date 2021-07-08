@@ -90,12 +90,15 @@ on command line prompt, it works fine.
 
  9. [exa](https://github.com/ogham/exa): a A modern replacement for `ls`.
 
- 10. [delta](https://github.com/dandavison/delta): better viewer for `git log`
-        and `git reflog` output.
+ 10. [duf](https://github.com/muesli/duf): a better `df` alternative.
 
  11. [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
 
- 12. [duf](https://github.com/muesli/duf): a better `df` alternative.
+ 12. [delta](https://github.com/dandavison/delta): better viewer for `git log`
+        and `git reflog` output.
+
+ 13. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): makes diffs
+        human readable.
 
 ## Feedback
 
