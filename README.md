@@ -24,6 +24,9 @@ updates, only sites and simple introductions are listed.
  3. [Dracula](https://draculatheme.com): My favorite dark theme for many shells,
         editors and more.
 
+ 4. [Path in Finder](https://www.techjunkie.com/show-path-finder-title-bar/):
+        for easier navigation.
+
 ### Apps
 
  1. [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping
