@@ -62,11 +62,14 @@ updates, only sites and simple introductions are listed.
 
  13. [Dropbox](https://www.dropbox.com): best file hosting service to me.
 
- 14. [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
-        this fits all I need for [pinboard](https://pinboard.in) using safari.
+ 14. [Spotify](https://www.spotify.com): listening to music.
 
  15. [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
         extension for Safari.
+
+ 16. [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
+        this fits all I need for [pinboard](https://pinboard.in) using safari.
+
 
 ### Terminal
 
