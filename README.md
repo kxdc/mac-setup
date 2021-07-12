@@ -114,6 +114,8 @@ on command line prompt, it works fine.
  13. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): makes diffs
         human readable.
 
+ 14. [lnav](https://github.com/tstack/lnav): the log file navigator.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
