@@ -70,6 +70,9 @@ updates, only sites and simple introductions are listed.
  16. [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
         this fits all I need for [pinboard](https://pinboard.in) using safari.
 
+ 17. [AdBlock](https://apps.apple.com/us/app/adblock-for-mobile/id1036484810):
+        content-filtering and ad blocking.
+
 
 ### Terminal
 
