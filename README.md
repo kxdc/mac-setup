@@ -118,6 +118,9 @@ on command line prompt, it works fine.
 
  15. [rclone](https://github.com/rclone/rclone): manage files on cloud storage.
 
+ 16. [tldr](https://github.com/tldr-pages/tldr): collaborative cheatsheets for
+        console commands.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
