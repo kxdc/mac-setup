@@ -116,6 +116,8 @@ on command line prompt, it works fine.
 
  14. [lnav](https://github.com/tstack/lnav): the log file navigator.
 
+ 15. [rclone](https://github.com/rclone/rclone): manage files on cloud storage.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
