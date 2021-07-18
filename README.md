@@ -74,8 +74,6 @@ updates, only sites and simple introductions are listed.
  18. [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
         extension for Safari.
 
-
-
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
