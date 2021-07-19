@@ -77,47 +77,47 @@ updates, only sites and simple introductions are listed.
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
-on command line prompt, it works fine.
+    on command line prompt, it works fine.
 
- 1. [Homebrew](https://brew.sh): managing packages, can be extended by
-        [cask](https://formulae.brew.sh/cask/).
+- [Homebrew](https://brew.sh): managing packages, can be extended by
+    [cask](https://formulae.brew.sh/cask/).
 
- 2. [Starship](https://github.com/starship/starship): customizable prompt for shell.
+- [Starship](https://github.com/starship/starship): customizable prompt for shell.
 
- 3. [Neovim](https://neovim.io): once and for all vim solution.
+- [Neovim](https://neovim.io): once and for all vim solution.
 
- 4. [tmux](https://github.com/tmux/tmux): pleasant and streamlined workflow.
+- [tmux](https://github.com/tmux/tmux): pleasant and streamlined workflow.
 
- 5. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh): managing zsh configuration.
+- [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh): managing zsh configuration.
 
- 6. [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient
-        and predictable.
+- [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient
+    and predictable.
 
- 7. [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with
-        [ripgrep](https://github.com/BurntSushi/ripgrep),
-        [ripgrep-all](https://github.com/phiresky/ripgrep-all)
-        and [bat](https://github.com/sharkdp/bat).
+- [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with
+    [ripgrep](https://github.com/BurntSushi/ripgrep),
+    [ripgrep-all](https://github.com/phiresky/ripgrep-all)
+    and [bat](https://github.com/sharkdp/bat).
 
- 8. [htop](https://github.com/hishamhm/htop): a better `top` command.
+- [htop](https://github.com/hishamhm/htop): a better `top` command.
 
- 9. [exa](https://github.com/ogham/exa): a A modern replacement for `ls`.
+- [exa](https://github.com/ogham/exa): a A modern replacement for `ls`.
 
- 10. [duf](https://github.com/muesli/duf): a better `df` alternative.
+- [duf](https://github.com/muesli/duf): a better `df` alternative.
 
- 11. [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
+- [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
 
- 12. [delta](https://github.com/dandavison/delta): better viewer for `git log`
-        and `git reflog` output.
+- [delta](https://github.com/dandavison/delta): better viewer for `git log`
+    and `git reflog` output.
 
- 13. [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): makes diffs
-        human readable.
+- [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy): makes diffs
+    human readable.
 
- 14. [lnav](https://github.com/tstack/lnav): the log file navigator.
+- [lnav](https://github.com/tstack/lnav): the log file navigator.
 
- 15. [rclone](https://github.com/rclone/rclone): manage files on cloud storage.
+- [rclone](https://github.com/rclone/rclone): manage files on cloud storage.
 
- 16. [tldr](https://github.com/tldr-pages/tldr): collaborative cheatsheets for
-        console commands.
+- [tldr](https://github.com/tldr-pages/tldr): collaborative cheatsheets for
+    console commands.
 
 ## Feedback
 
