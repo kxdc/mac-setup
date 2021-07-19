@@ -29,50 +29,50 @@ updates, only sites and simple introductions are listed.
 
 ### Apps
 
- 1. [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping
-        `capslock` as `ctrl`.
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org): remapping
+    `capslock` as `ctrl`.
 
- 2. [KeyCastr](https://github.com/keycastr/keycastr): visualizing keystroke
-        (notice typing password in terminal).
+- [KeyCastr](https://github.com/keycastr/keycastr): visualizing keystroke
+    (notice typing password in terminal).
 
- 3. [Hidden Bar](https://github.com/dwarvesf/hidden): hiding menu bar items for
-        better look.
+- [Hidden Bar](https://github.com/dwarvesf/hidden): hiding menu bar items for
+    better look.
 
- 4. [Alfred](https://www.alfredapp.com): boosting productivity with it's
-        `Powerpack` enabled.
+- [Alfred](https://www.alfredapp.com): boosting productivity with it's
+    `Powerpack` enabled.
 
- 5. [Moom](https://manytricks.com/moom/): moving and resizing windows.
+- [Moom](https://manytricks.com/moom/): moving and resizing windows.
 
- 6. [IINA](https://iina.io): the modern media player for macOS.
+- [IINA](https://iina.io): the modern media player for macOS.
 
- 7. [Keka](https://www.keka.io): a versatile archive extractor.
+- [Keka](https://www.keka.io): a versatile archive extractor.
 
- 8. [Sublime Text 4](https://www.sublimetext.com): source code editor outside
-         of Terminal.
+- [Sublime Text 4](https://www.sublimetext.com): source code editor outside
+    of Terminal.
 
- 9. [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): a global delay to
-        stop accidental app quits.
+- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps): a global delay to
+    stop accidental app quits.
 
- 10. [Vimac](https://vimacapp.com): keyboard access almost everywhere.
+- [Vimac](https://vimacapp.com): keyboard access almost everywhere.
 
- 11. [espanso](https://espanso.org): a wonderful text expander.
+- [espanso](https://espanso.org): a wonderful text expander.
 
- 12. [Sorted<sup>3</sup>](https://www.sortedapp.com): schedule my to-do, notes
-         and calendar.
+- [Sorted<sup>3</sup>](https://www.sortedapp.com): schedule my to-do, notes
+    and calendar.
 
- 13. [Dropbox](https://www.dropbox.com): best file hosting service to me.
+- [Dropbox](https://www.dropbox.com): best file hosting service to me.
 
- 14. [Spotify](https://www.spotify.com): listening to music.
+- [Spotify](https://www.spotify.com): listening to music.
 
- 15. [AdBlock](https://apps.apple.com/us/app/adblock-for-mobile/id1036484810):
-        content-filtering and ad blocking.
+- [AdBlock](https://apps.apple.com/us/app/adblock-for-mobile/id1036484810):
+    content-filtering and ad blocking.
 
- 16. [Boop](https://boop.okat.best): scriptable scratchpad for developers.
+- [Boop](https://boop.okat.best): scriptable scratchpad for developers.
 
- 17. [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
-        this fits all I need for [pinboard](https://pinboard.in) using safari.
- 18. [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
-        extension for Safari.
+- [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
+    this fits all I need for [pinboard](https://pinboard.in) using safari.
+- [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
+    extension for Safari.
 
 ### Terminal
 
