@@ -119,6 +119,8 @@ updates, only sites and simple introductions are listed.
 - [tldr](https://github.com/tldr-pages/tldr): collaborative cheatsheets for
     console commands.
 
+- [entr](http://eradman.com/entrproject/): run commands when files change.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
