@@ -74,6 +74,8 @@ updates, only sites and simple introductions are listed.
 - [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
     extension for Safari.
 
+- [Roam Research](https://roamresearch.com): fabulous note-taking tool.
+
 ### Terminal
 
 [iTerm2](https://iterm2.com) is my choice of terminal. I spend a lot of time
