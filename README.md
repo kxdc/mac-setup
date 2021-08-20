@@ -121,6 +121,8 @@ updates, only sites and simple introductions are listed.
 
 - [entr](http://eradman.com/entrproject/): run commands when files change.
 
+- [Fig](https://fig.io) is a brand new autocompletion CLI tools.
+
 ## Feedback
 
 Suggestions and improvements [welcome](https://github.com/kxdc/mac-setup/issues)!
