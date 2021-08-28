@@ -123,6 +123,8 @@ updates, only sites and simple introductions are listed.
 
 - [entr](http://eradman.com/entrproject/): run commands when files change.
 
+- [jq](https://stedolan.github.io/jq/): a fantastic JSON processor.
+
 - [Fig](https://fig.io): is a brand new autocompletion CLI tools.
 
 ## Feedback
