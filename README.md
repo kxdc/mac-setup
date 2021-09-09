@@ -76,7 +76,7 @@ updates, only sites and simple introductions are listed.
 
 - [Roam Research](https://roamresearch.com): fabulous note-taking tool.
 
-- [NetNewsWire](open source RSS reader): open source RSS reader.
+- [NetNewsWire](https://netnewswire.com): open source RSS reader.
 
 ### Terminal
 
