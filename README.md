@@ -70,8 +70,6 @@ updates, only sites and simple introductions are listed.
 - [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
     extension for Safari.
 
-- [Roam Research](https://roamresearch.com): fabulous note-taking tool.
-
 - [NetNewsWire](https://netnewswire.com): open source RSS reader.
 
 ### Terminal
