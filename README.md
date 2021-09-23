@@ -108,6 +108,9 @@ updates, only sites and simple introductions are listed.
 
 - [dust](https://github.com/bootandy/dust): a more intuitive version of `du`.
 
+- [fd](https://github.com/sharkdp/fd): A simple, fast and user-friendly
+    alternative to `find`.
+
 - [delta](https://github.com/dandavison/delta): better viewer for `git log`
     and `git reflog` output.
 
