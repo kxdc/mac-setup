@@ -45,8 +45,6 @@ updates, only sites and simple introductions are listed.
 
 - [IINA](https://iina.io): the modern media player for macOS.
 
-- [Keka](https://www.keka.io): a versatile archive extractor.
-
 - [Sublime Text 4](https://www.sublimetext.com): source code editor outside
     of Terminal.
 
