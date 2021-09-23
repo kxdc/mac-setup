@@ -67,8 +67,6 @@ updates, only sites and simple introductions are listed.
 - [AdBlock](https://apps.apple.com/us/app/adblock-for-mobile/id1036484810):
     content-filtering and ad blocking.
 
-- [Boop](https://boop.okat.best): scriptable scratchpad for developers.
-
 - [Pinboard Extension](https://apps.apple.com/us/app/pinboard-browser-extension/id1552590875?mt=12):
     this fits all I need for [pinboard](https://pinboard.in) using safari.
 - [Vimari](https://github.com/televator-apps/vimari): keyboard shortcuts
