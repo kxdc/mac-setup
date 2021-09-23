@@ -124,6 +124,8 @@ updates, only sites and simple introductions are listed.
 - [tldr](https://github.com/tldr-pages/tldr): collaborative cheatsheets for
     console commands.
 
+- [glow](https://github.com/charmbracelet/glow): render markdown files.
+
 - [entr](http://eradman.com/entrproject/): run commands when files change.
 
 - [jq](https://stedolan.github.io/jq/): a fantastic JSON processor.
