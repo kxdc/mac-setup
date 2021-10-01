@@ -88,8 +88,8 @@ updates, only sites and simple introductions are listed.
 
 - [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh): managing zsh configuration.
 
-- [Docker](https://github.com/ohmyzsh/ohmyzsh): making development efficient
-    and predictable.
+- [Docker](https://dhwaneetbhatt.com/blog/run-docker-without-docker-desktop-on-macos):
+    making development efficient and predictable.
 
 - [fzf](https://github.com/junegunn/fzf): fuzzy finder, together with
     [ripgrep](https://github.com/BurntSushi/ripgrep),
